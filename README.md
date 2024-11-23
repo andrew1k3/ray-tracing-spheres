@@ -1,4 +1,4 @@
-# Ray Tracing 3D Visualizer
+# Ray Tracing 3D Renderer
 
 A simple ray tracing algorithm that renders a 3D world with spheres and lighting.
 
