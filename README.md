@@ -14,10 +14,15 @@ This program uses a basic ray tracing algorithm, demonstrating how light rays in
 - **Python 3.0.0+**
 - **Pillow** `pip install pillow`
 
+To install:
+```bash
+pip install -r requirements.txt
+```
+
 ## How To Use
 Navigate to the root of the directory:
 
-```
+```bash
 python3 ./main.py
 ```
 
