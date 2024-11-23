@@ -17,7 +17,6 @@ This program uses a basic ray tracing algorithm, demonstrating how light rays in
 ## How To Use
 Navigate to the root of the directory:
 
-bash
 ```
 python3 ./main.py
 ```
