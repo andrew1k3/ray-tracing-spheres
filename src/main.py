@@ -53,7 +53,7 @@ def console_input() -> Scene:
 def gui_input() -> Scene:
     app = QApplication([])
     window = MainWindow()
-    window.resize(480, 380)
+    window.setFixedWidth(400)
     window.show()
     exit(app.exec())
 
