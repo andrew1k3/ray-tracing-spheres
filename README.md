@@ -22,8 +22,14 @@ pip install -r requirements.txt
 ## How To Use
 Navigate to the root of the directory:
 
+To use GUI:
 ```bash
 python3 ./src/main.py
+```
+
+To use Console:
+```bash
+python3 ./src/main.py -c
 ```
 
 View the rendered image in `./output.png`.
