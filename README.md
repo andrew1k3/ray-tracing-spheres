@@ -17,6 +17,7 @@ This program uses a basic ray tracing algorithm, demonstrating how light rays in
 ## Dependencies
 - **Python 3.0.0+**
 - **Pillow** `pip install pillow`
+- **PySide6** `pip install pyside6`
 
 To install:
 ```bash
