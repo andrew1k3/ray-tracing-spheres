@@ -9,6 +9,10 @@ This program uses a basic ray tracing algorithm, demonstrating how light rays in
 ![image](https://github.com/user-attachments/assets/2ef9852a-04cf-40e0-8267-c63725ad2a09)
 ![ImageToStl com_output](https://github.com/user-attachments/assets/c6f5bd09-805a-4dad-bbfa-f4a9dd8ec567)
 
+## GUI
+<img width="1280" height="1720" alt="gui_image" src="https://github.com/user-attachments/assets/cd8f0bc0-0fb9-4940-8b8f-f010b1bf5b58" />
+
+
 
 ## Dependencies
 - **Python 3.0.0+**
